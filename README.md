@@ -12,7 +12,7 @@ Now recoded, and work in progress
 
 Download ETP.zip, run etp.exe
 
-## Relevant Scripts
+## Relevant Scripts in TideRedo/Assets/Scripts
 
 - PlayerScript.cs
 - GridScript.cs
