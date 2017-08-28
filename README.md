@@ -14,10 +14,10 @@ Download ETP.zip, run etp.exe
 
 ## Relevant Scripts
 
-*PlayerScript.cs
-*GridScript.cs
-*TileScriptBig.cs
-*WaveScript.cs
+- PlayerScript.cs
+- GridScript.cs
+- TileScriptBig.cs
+- WaveScript.cs
 
 
 
